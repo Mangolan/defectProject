@@ -1,4 +1,4 @@
-'''
+```
 import torch
 from torchviz import make_dot
 from torchvision.models import wide_resnet50_2, Wide_ResNet50_2_Weights
@@ -17,5 +17,5 @@ def main():
 
 if __name__ == '__main__':
     main()
-'''
+```
 ![프로필 이미지](./wide_resnet50_2_architecture.png)
